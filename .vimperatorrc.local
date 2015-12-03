@@ -1,0 +1,4 @@
+set gui=none
+map <F2> :tabgroups<Space>switch<Space>
+map <F4> :tabgroups<Space>remove<Space><Return>
+map <F6> :tabdetach<Return>
